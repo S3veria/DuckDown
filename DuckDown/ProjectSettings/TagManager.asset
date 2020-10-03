@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3857685709
+    locked: 0
+  - name: water
+    uniqueID: 778049867
+    locked: 0
+  - name: duck
+    uniqueID: 1308745111
+    locked: 0
+  - name: zombie
+    uniqueID: 3093938461
+    locked: 0
+  - name: silver
+    uniqueID: 2403547111
+    locked: 0
+  - name: gun
+    uniqueID: 2482570949
+    locked: 0
+  - name: score
+    uniqueID: 1630173589
+    locked: 0
+  - name: score
+    uniqueID: 2775529817
+    locked: 0
+  - name: bullet
+    uniqueID: 2033246627
+    locked: 0
